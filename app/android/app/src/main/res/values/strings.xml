@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WatchNest</string>
+    <string name="title_activity_main">WatchNest</string>
+    <string name="package_name">me.lorenzo0111.watchnest</string>
+    <string name="custom_url_scheme">me.lorenzo0111.watchnest</string>
+</resources>
